@@ -61,7 +61,7 @@ I'll update these lists at least once a week.
 
 [Source: github-awards](http://github-awards.com/users?language=python)
 
-Last updated: 2/15/16
+Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Devs to Follow: Trending*
 
@@ -88,9 +88,9 @@ Last updated: 2/15/16
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by dev
 
-Last updated: 2/15/16
+Last updated: 2016-02-15
 
-*Trending: 01/01/2015 to 2/15/16
+*Trending: 2015-01-01 to 2016-02-15
 
 ## Top-Starred Python GitHub Orgs: All-Time
 
@@ -117,7 +117,7 @@ Last updated: 2/15/16
 
 [Source: github-awards](http://github-awards.com/users?language=python)
 
-Last updated: 2/15/16
+Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Orgs: Trending*
 
@@ -144,9 +144,9 @@ Last updated: 2/15/16
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by org
 
-Last updated: 2/15/16
+Last updated: 2016-02-15
 
-*Trending: 01/01/2015 to 2/15/16
+*Trending: 2015-01-01 to 2016-02-15
 
 ## Top-Starred Python GitHub Repos: All-Time
 
@@ -173,7 +173,7 @@ Last updated: 2/15/16
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=language%3Apython+stars%3A%3E500&type=Repositories&ref=searchresults)
 
-Last updated: 2/15/16
+Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Repos: Trending*
 
@@ -200,9 +200,9 @@ Last updated: 2/15/16
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults)
 
-Last updated: 2/15/16
+Last updated: 2016-02-15
 
-*Trending: 01/01/2015 to 2/15/16
+*Trending: 2015-01-01 to 2016-02-15
 
 ## License
 
