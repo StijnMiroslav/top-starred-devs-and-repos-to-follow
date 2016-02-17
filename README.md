@@ -1,10 +1,10 @@
-# top-devs-and-repos-to-follow
+# top-starred-devs-and-repos-to-follow
 
-> The Top Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+> The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 
 ## Why?
 
-Why follow the top Python GitHub devs?
+Why follow the top-starred Python GitHub devs?
 
 > Following influencers is usually a good practice. It has helped me in multiple ways:
 
@@ -18,9 +18,9 @@ Why follow the top Python GitHub devs?
 
 After reading through the post, I was curious to see a similar list for Python GitHub devs, orgs, and repos.
 
-## 'Top'?
+## 'Top-Starred'?
 
-There's no definitive way to determine 'top' devs, orgs, and repos. Every metric has its flaws. The lists below look at total number of stars in Python repositories, which seems to be a decent metric that is readily available/easy to mine.
+There's no definitive way to determine 'top' devs, orgs, and repos by language. Every metric has its flaws. The lists below look at total number of stars in Python repositories, which seems to be a decent metric that is readily available/easy to mine.
 
 Dev stats are for individual contributors. Org stats are also provided: viewing the org link shows the devs who are part of the org. Not sure how you'd measure stats for each dev part of an org, or similarly, devs contributing to other projects.
 
@@ -30,11 +30,11 @@ I found it interesting to track 'all time' and 'trending' stats, so lists for ea
 
 I'll update these lists at least once a week.
 
-## Contributions?
+## Contributions? Other Languages?
 
 Sure!  If there's interest in seeing similar lists in other programming languages, please file an issue or better yet, contribute.
 
-## Top Python GitHub Devs to Follow: All-Time
+## Top-Starred Python GitHub Devs to Follow: All-Time
 
 1. [kennethreitz](https://github.com/kennethreitz) 38966
 2. [mitsuhiko](https://github.com/mitsuhiko) 35640
@@ -61,7 +61,7 @@ Sure!  If there's interest in seeing similar lists in other programming language
 
 Last updated: 2/15/16
 
-## Top Python GitHub Devs to Follow: Trending*
+## Top-Starred Python GitHub Devs to Follow: Trending*
 
 1. [nvbn](https://github.com/nvbn) 18613
 2. [donnemartin](https://github.com/donnemartin) 13239
@@ -90,7 +90,7 @@ Last updated: 2/15/16
 
 *Trending: 01/01/2015 to 2/15/16
 
-## Top Python GitHub Orgs: All-Time
+## Top-Starred Python GitHub Orgs: All-Time
 
 1. [Django](https://github.com/django) 21548
 2. [openstack](https://github.com/openstack) 20907
@@ -117,7 +117,7 @@ Last updated: 2/15/16
 
 Last updated: 2/15/16
 
-## Top Python GitHub Orgs: Trending*
+## Top-Starred Python GitHub Orgs: Trending*
 
 1. [google](https://github.com/google) 6352
 2. [XX-net](https://github.com/XX-net) 5098
@@ -146,7 +146,7 @@ Last updated: 2/15/16
 
 *Trending: 01/01/2015 to 2/15/16
 
-## Top Python GitHub Repos: All-Time
+## Top-Starred Python GitHub Repos: All-Time
 
 1. [jkbrzt/httpie](https://github.com/jkbrzt/httpie) 21118<br/>CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 2. [nvbn/thefuck](https://github.com/nvbn/thefuck) 18613<br/>Magnificent app which corrects your previous console command.
@@ -173,7 +173,7 @@ Last updated: 2/15/16
 
 Last updated: 2/15/16
 
-## Top Python GitHub Repos: Trending*
+## Top-Starred Python GitHub Repos: Trending*
 
 1. [nvbn/thefuck](https://github.com/nvbn/thefuck) 18613<br/>Magnificent app which corrects your previous console command.
 2. [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) 10919<br/>The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
