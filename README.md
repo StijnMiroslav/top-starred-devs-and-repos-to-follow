@@ -12,7 +12,7 @@ Why follow the top-starred Python GitHub devs?
 
 > 2. You can follow these influencers to see which events are they attending, what are they reading and what are they working on. This can quickly become a wealth of knowledge in itself.
 
-> 3. To some extent, it also provides a human touch to these influencers. By just looking at their profiles, they might come across as some one out of the world. But, when you start folllowing them regularly, you tend to relate yourself with the influencers.
+> 3. To some extent, it also provides a human touch to these influencers. By just looking at their profiles, they might come across as some one out of the world. But, when you start following them regularly, you tend to relate yourself with the influencers.
 
 > Inspired by the following [Reddit post](https://www.reddit.com/r/Python/comments/3e7lpo/top_data_scientists_to_follow_and_best_tutorials/).
 
