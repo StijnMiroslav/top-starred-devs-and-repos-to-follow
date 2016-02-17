@@ -167,7 +167,7 @@ Last updated: 2/15/16
 17. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) 9768<br/>scikit-learn: machine learning in Python
 18. [ipython/ipython](https://github.com/ipython/ipython) 8572<br/>Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 19. [getsentry/sentry](https://github.com/getsentry/sentry) 8427<br/>Sentry is cross-platform crash reporting built with love
-20. [adobe-fonts/source-code-pro](https://github.com/adobe-fonts/source-code-pro) 7880<br/>Monospaced font family for user interface and coding environments
+20. [faif/python-patterns](https://github.com/faif/python-patterns) 7726<br/>A collection of design patterns/idioms in Python
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=language%3Apython+stars%3A%3E500&type=Repositories&ref=searchresults)
 
