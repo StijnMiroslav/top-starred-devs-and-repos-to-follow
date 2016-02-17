@@ -109,9 +109,9 @@ Last updated: 2/15/16
 15. [pydata](https://github.com/pydata) 8511
 16. [kivy](https://github.com/kivy) 8270
 17. [mozilla](https://github.com/mozilla) 8060
-18. [adobe-fonts](https://github.com/adobe-fonts) 7896
-19. [saltstack](https://github.com/saltstack) 7283
-20. [yelp](https://github.com/yelp) 6924
+18. [saltstack](https://github.com/saltstack) 7283
+19. [yelp](https://github.com/yelp) 6924
+20. [fabric](https://github.com/fabric) 6783
 
 [Source: github-awards](http://github-awards.com/users?language=python)
 
