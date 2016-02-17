@@ -1,6 +1,6 @@
 # top-devs-and-repos-to-follow
 
-> The Top Python GitHub Devs and Repos to Follow (All-Time and Trending)
+> The Top Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 
 ## Why?
 
@@ -16,15 +16,15 @@ Why follow the top Python GitHub devs?
 
 > Inspired by the following [Reddit post](https://www.reddit.com/r/Python/comments/3e7lpo/top_data_scientists_to_follow_and_best_tutorials/).
 
-After reading through the post, I was curious to see a similar list for Python GitHub devs and repos.
+After reading through the post, I was curious to see a similar list for Python GitHub devs, orgs, and repos.
 
 ## 'Top'?
 
-There's no definitive way to determine 'top' developers and repos. Every metric has its flaws. The lists below look at total number of stars in Python repositories, which seems to be a decent metric that is readily available/easy to mine.
+There's no definitive way to determine 'top' devs, orgs, and repos. Every metric has its flaws. The lists below look at total number of stars in Python repositories, which seems to be a decent metric that is readily available/easy to mine.
 
-Developer stats are for individual contributors. Not sure how you'd measure stats for developers part of an org or those contributing to other projects.
+Dev stats are for individual contributors. Org stats are also provided: viewing the org link shows the devs who are part of the org. Not sure how you'd measure stats for each dev part of an org, or similarly, devs contributing to other projects.
 
-I found it interesting to track 'all time' and 'trending' developers/repos, so lists for each are included. Sources are provided after each list.
+I found it interesting to track 'all time' and 'trending' stats, so lists for each are included. Sources are provided after each list.
 
 ## Updates?
 
@@ -36,19 +36,19 @@ Sure!  If there's interest in seeing similar lists in other programming language
 
 ## Top Python GitHub Devs to Follow: All-Time
 
-1. [kennethreitz](https://github.com/kennethreitz): 38966
-2. [mitsuhiko](https://github.com/mitsuhiko): 35640
-3. [jkbrzt](https://github.com/jkbrzt): 21848
-4. [nvbn](https://github.com/nvbn): 20445
-5. [vinta](https://github.com/vinta): 15963
-6. [rg3](https://github.com/rg3): 14334
-7. [donnemartin](https://github.com/donnemartin): 13555
-8. [josephmisiti](https://github.com/josephmisiti): 11646
-9. [minimaxir](https://github.com/minimaxir): 11024
-10. [valloric](https://github.com/valloric): 10186
-11. [apenwarr](https://github.com/apenwarr): 8928
-12. [faif](https://github.com/faif): 7707
-13. [tomchristie](https://github.com/tomchristie): 7343
+1. [kennethreitz](https://github.com/kennethreitz) 38966
+2. [mitsuhiko](https://github.com/mitsuhiko) 35640
+3. [jkbrzt](https://github.com/jkbrzt) 21848
+4. [nvbn](https://github.com/nvbn) 20445
+5. [vinta](https://github.com/vinta) 15963
+6. [rg3](https://github.com/rg3) 14334
+7. [donnemartin](https://github.com/donnemartin) 13555
+8. [josephmisiti](https://github.com/josephmisiti) 11646
+9. [minimaxir](https://github.com/minimaxir) 11024
+10. [valloric](https://github.com/valloric) 10186
+11. [apenwarr](https://github.com/apenwarr) 8928
+12. [faif](https://github.com/faif) 7707
+13. [tomchristie](https://github.com/tomchristie) 7343
 14. [binux](https://github.com/binux) 6524
 15. [toastdriven](https://github.com/toastdriven) 6347
 16. [jonathanslenders](https://github.com/jonathanslenders) 6212
@@ -57,7 +57,7 @@ Sure!  If there's interest in seeing similar lists in other programming language
 19. [nvie](https://github.com/nvie) 5364
 20. [dcramer](https://github.com/dcramer) 5290
 
-[Source: github-awards](http://github-awards.com/users?language=python), excluding organizations
+[Source: github-awards](http://github-awards.com/users?language=python)
 
 Last updated: 2/15/16
 
@@ -84,7 +84,63 @@ Last updated: 2/15/16
 19. [rushter](https://github.com/rushter) 2263
 20. [danielquinn](https://github.com/danielquinn) 1906
 
-[Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by developer
+[Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by dev
+
+Last updated: 2/15/16
+
+*Trending: 01/01/2015 to 2/15/16
+
+## Top Python GitHub Orgs: All-Time
+
+1. [Django](https://github.com/django) 21548
+2. [openstack](https://github.com/openstack) 20907
+3. [google](https://github.com/google) 19108
+4. [ansible](https://github.com/ansible) 16554
+5. [docker](https://github.com/docker) 15395
+6. [letsencrypt](https://github.com/letsencrypt) 14793
+7. [scrapy](https://github.com/scrapy) 14476
+8. [shadowsocks](https://github.com/shadowsocks) 12640
+9. [facebook](https://github.com/facebook) 12050
+10. [getsentry](https://github.com/getsentry) 11613
+11. [tornadoweb](https://github.com/tornadoweb) 10783
+12. [reddit](https://github.com/reddit) 10773
+13. [scikit-learn](https://github.com/scikit-learn) 9851
+14. [ipython](https://github.com/ipython) 9010
+15. [pydata](https://github.com/pydata) 8511
+16. [kivy](https://github.com/kivy) 8270
+17. [mozilla](https://github.com/mozilla) 8060
+18. [adobe-fonts](https://github.com/adobe-fonts) 7896
+19. [saltstack](https://github.com/saltstack) 7283
+20. [yelp](https://github.com/yelp) 6924
+
+[Source: github-awards](http://github-awards.com/users?language=python)
+
+Last updated: 2/15/16
+
+## Top Python GitHub Orgs: Trending*
+
+1. [google](https://github.com/google) 6352
+2. [XX-net](https://github.com/XX-net) 5098
+3. [zulip](https://github.com/zulip) 3655
+4. [facebook](https://github.com/facebook) 2752
+5. [Kinto](https://github.com/Kinto) 2598
+6. [dbcli](https://github.com/dbcli) 2449
+7. [tqdm](https://github.com/tqdm) 2367
+8. [CiscoCloud](https://github.com/CiscoCloud) 1952
+9. [awslabs](https://github.com/awslabs) 1932
+10. [tensorflow](https://github.com/tensorflow) 1796
+11. [lektor](https://github.com/lektor) 1506
+12. [Yelp](https://github.com/Yelp) 1485
+13. [stitchfix](https://github.com/stitchfix) 1312
+14. [zero-db](https://github.com/zero-db) 1300
+15. [pfnet](https://github.com/pfnet) 1175
+16. [CacheBrowser](https://github.com/CacheBrowser) 1013
+17. [waditu](https://github.com/waditu) 1010
+18. [NVIDIA](https://github.com/NVIDIA) 905
+19. [spyder-ide](https://github.com/spyder-ide) 845
+20. [lyft](https://github.com/lyft) 833
+
+[Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by org
 
 Last updated: 2/15/16
 
