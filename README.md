@@ -26,13 +26,13 @@ Dev stats are for individual contributors. Org stats are also provided: viewing 
 
 I found it interesting to track 'all time' and 'trending' stats, so lists for each are included. Sources are provided after each list.
 
-## Updates?
-
-I'll update these lists at least once a week.
-
 ## Contributions? Other Languages?
 
 Sure!  If there's interest in seeing similar lists in other programming languages, please file an issue or better yet, contribute.
+
+## Updates?
+
+I'll update these lists at least once a week.
 
 ## Top-Starred Python GitHub Devs to Follow: All-Time
 
