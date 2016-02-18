@@ -96,13 +96,13 @@ Last updated: 2016-02-15
 
 1. [Django](https://github.com/django) - ([django](https://github.com/django/django)) - 21548
 2. [openstack](https://github.com/openstack) - ([nova](https://github.com/openstack/nova)) - 20907
-3. [google](https://github.com/google) - ([web-starter-kit](https://github.com/google/web-starter-kit)) - 19108
+3. [google](https://github.com/google) - ([yapf](https://github.com/google/yapf)) - 19108
 4. [ansible](https://github.com/ansible) - ([ansible](https://github.com/ansible/ansible)) - 16554
-5. [docker](https://github.com/docker) - ([docker](https://github.com/docker/docker)) - 15395
+5. [docker](https://github.com/docker) - ([compose](https://github.com/docker/compose)) - 15395
 6. [letsencrypt](https://github.com/letsencrypt) - ([letsencrypt](https://github.com/letsencrypt/letsencrypt)) - 14793
 7. [scrapy](https://github.com/scrapy) - ([scrapy](https://github.com/scrapy/scrapy)) - 14476
 8. [shadowsocks](https://github.com/shadowsocks) - ([shadowsocks](https://github.com/shadowsocks/shadowsocks)) - 12640
-9. [facebook](https://github.com/facebook) - ([react](https://github.com/facebook/react)) - 12050
+9. [facebook](https://github.com/facebook) - ([chisel](https://github.com/facebook/chisel)) - 12050
 10. [getsentry](https://github.com/getsentry) - ([sentry](https://github.com/getsentry/sentry)) - 11613
 11. [tornadoweb](https://github.com/tornadoweb) - ([tornado](https://github.com/tornadoweb/tornado)) - 10783
 12. [reddit](https://github.com/reddit) - ([reddit](https://github.com/reddit/reddit)) - 10773
@@ -110,9 +110,9 @@ Last updated: 2016-02-15
 14. [ipython](https://github.com/ipython) - ([ipython](https://github.com/ipython/ipython)) - 9010
 15. [pydata](https://github.com/pydata) - ([pandas](https://github.com/pydata/pandas)) - 8511
 16. [kivy](https://github.com/kivy) - ([kivy](https://github.com/kivy/kivy)) - 8270
-17. [mozilla](https://github.com/mozilla) - ([firefox-ios](https://github.com/mozilla/firefox-ios)) - 8060
+17. [mozilla](https://github.com/mozilla) - ([bleach](https://github.com/mozilla/bleach)) - 8060
 18. [saltstack](https://github.com/saltstack) - ([salt](https://github.com/saltstack/salt)) - 7283
-19. [yelp](https://github.com/yelp) - ([dockersh](https://github.com/Yelp/dockersh)) - 6924
+19. [yelp](https://github.com/yelp) - ([mrjob](https://github.com/Yelp/mrjob)) - 6924
 20. [fabric](https://github.com/fabric) - ([fabric](https://github.com/fabric/fabric)) - 6783
 
 [Source: github-awards](http://github-awards.com/users?language=python)
@@ -121,26 +121,26 @@ Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Orgs: Trending*
 
-1. [google](https://github.com/google) - ([web-starter-kit](https://github.com/google/web-starter-kit)) - 6352
+1. [google](https://github.com/google) - ([yapf](https://github.com/google/yapf)) - 6352
 2. [XX-net](https://github.com/XX-net) - ([XX-Net](https://github.com/XX-net/XX-Net)) - 5098
 3. [zulip](https://github.com/zulip) - ([zulip](https://github.com/zulip/zulip)) - 3655
-9. [facebook](https://github.com/facebook) - ([react](https://github.com/facebook/react)) - 12050
+9. [facebook](https://github.com/facebook) - ([PathPicker](https://github.com/facebook/PathPicker)) - 12050
 5. [Kinto](https://github.com/Kinto) - ([kinto](https://github.com/Kinto/kinto)) - 2598
 6. [dbcli](https://github.com/dbcli) - ([pgcli](https://github.com/dbcli/pgcli)) - 2449
 7. [tqdm](https://github.com/tqdm) - ([tqdm](https://github.com/tqdm/tqdm)) - 2367
-8. [CiscoCloud](https://github.com/CiscoCloud) - ([mantl](https://github.com/CiscoCloud/mantl)) - 1952
-9. [awslabs](https://github.com/awslabs) - ([s2n](https://github.com/awslabs/s2n)) - 1932
-10. [tensorflow](https://github.com/tensorflow) - ([tensorflow](https://github.com/tensorflow/tensorflow)) - 1796
+8. [CiscoCloud](https://github.com/CiscoCloud) - ([microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure)) - 1952
+9. [awslabs](https://github.com/awslabs) - ([aws-shell](https://github.com/awslabs/aws-shell)) - 1932
+10. [tensorflow](https://github.com/tensorflow) - ([skflow](https://github.com/google/skflow)) - 1796
 11. [lektor](https://github.com/lektor) - ([lektor](https://github.com/lektor/lektor)) - 1506
-12. [yelp](https://github.com/yelp) - ([dockersh](https://github.com/Yelp/dockersh)) - 6924
-13. [stitchfix](https://github.com/stitchfix) - ([spinnaker](https://github.com/stitchfix/pyxley)) - 1312
-14. [zero-db](https://github.com/zero-db) - ([zerodb](https://github.com/zero-db/zerodb)) - 1300
-15. [pfnet](https://github.com/pfnet) - ([chainer](https://github.com/pfnet/chainer)) - 1175
-16. [CacheBrowser](https://github.com/CacheBrowser) - ([cachebrowser](https://github.com/CacheBrowser/cachebrowser)) - 1013
-17. [waditu](https://github.com/waditu) - ([tushare](https://github.com/waditu/tushare)) - 1010
+12. [stitchfix](https://github.com/stitchfix) - ([spinnaker](https://github.com/stitchfix/pyxley)) - 1312
+13. [zero-db](https://github.com/zero-db) - ([zerodb](https://github.com/zero-db/zerodb)) - 1300
+14. [pfnet](https://github.com/pfnet) - ([chainer](https://github.com/pfnet/chainer)) - 1175
+15. [CacheBrowser](https://github.com/CacheBrowser) - ([cachebrowser](https://github.com/CacheBrowser/cachebrowser)) - 1013
+16. [waditu](https://github.com/waditu) - ([tushare](https://github.com/waditu/tushare)) - 1010
+17. [yelp](https://github.com/yelp) - ([pastaa](https://github.com/Yelp/paasta)) - 962
 18. [NVIDIA](https://github.com/NVIDIA) - ([DIGITS](https://github.com/NVIDIA/DIGITS)) - 905
 19. [spyder-ide](https://github.com/spyder-ide) - ([spyder](https://github.com/spyder-ide/spyder)) - 845
-20. [lyft](https://github.com/lyft) - ([scissors](https://github.com/lyft/scissors)) - 833
+20. [lyft](https://github.com/lyft) - ([confidant](https://github.com/lyft/confidant)) - 833
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by org
 
