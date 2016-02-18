@@ -38,26 +38,26 @@ I'll update these lists at least once a week.
 
 ## Top-Starred Python GitHub Devs to Follow: All-Time
 
-1. [kennethreitz](https://github.com/kennethreitz) 38966 ([requests](https://github.com/kennethreitz/requests) 17,637)
-2. [mitsuhiko](https://github.com/mitsuhiko) 35640 ([flask](https://github.com/mitsuhiko/flask) 18,542)
-3. [jkbrzt](https://github.com/jkbrzt) 21848 ([httpie](https://github.com/jkbrzt/httpie) 21,213)
-4. [nvbn](https://github.com/nvbn) 20445 ([thefuck](https://github.com/nvbn/thefuck) 18,705)
-5. [rg3](https://github.com/rg3) 14334 ([youtube-dl](https://github.com/rg3/youtube-dl) 14,363)
-6. [donnemartin](https://github.com/donnemartin) 11840 ([data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) 4,930)
-7. [valloric](https://github.com/valloric) 10186 ([YouCompleteMe](https://github.com/valloric/YouCompleteMe) 9,941)
-8. [apenwarr](https://github.com/apenwarr) 8928 ([sshuttle](https://github.com/apenwarr/sshuttle) 6,513)
-9. [faif](https://github.com/faif) 7707 ([python-patterns](https://github.com/faif/python-patterns) 7,776)
-10. [tomchristie](https://github.com/tomchristie) 7343 ([django-rest-framework](https://github.com/tomchristie/django-rest-framework) 5,362)
-11. [binux](https://github.com/binux) 6524 ([pyspider](https://github.com/binux/pyspider) 6,075)
-12. [toastdriven](https://github.com/toastdriven) 6347 ([restless](https://github.com/toastdriven/restless) 486)
-13. [jonathanslenders](https://github.com/jonathanslenders) 6212 ([python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 2,042)
-14. [p-e-w](https://github.com/p-e-w) 6068 ([maybe](https://github.com/p-e-w/maybe) 5,176)
-15. [coleifer](https://github.com/coleifer) 5645 ([peewee](https://github.com/coleifer/peewee) 2,557)
-16. [nvie](https://github.com/nvie) 5364 ([gitflow](https://github.com/nvie/gitflow) 13,639)
-17. [dcramer](https://github.com/dcramer) 5290 ([django-devserver](https://github.com/dcramer/django-devserver) 1,116)
-18. [amoffat](https://github.com/amoffat) 5173 ([sh](https://github.com/amoffat/sh) 3,221)
-19. [danmcinerney](https://github.com/danmcinerney) 4959 ([wifijammer](https://github.com/danmcinerney/wifijammer) 1,587)
-20. [alex](https://github.com/alex) 4947 ([what-happens-when](https://github.com/alex/what-happens-when) 9,470)
+1. [kennethreitz](https://github.com/kennethreitz) - ([requests](https://github.com/kennethreitz/requests)) - 38966
+2. [mitsuhiko](https://github.com/mitsuhiko) - ([flask](https://github.com/mitsuhiko/flask)) - 35640
+3. [jkbrzt](https://github.com/jkbrzt) - ([httpie](https://github.com/jkbrzt/httpie)) - 21848
+4. [nvbn](https://github.com/nvbn) - ([thefuck](https://github.com/nvbn/thefuck)) - 20445
+5. [rg3](https://github.com/rg3) - ([youtube-dl](https://github.com/rg3/youtube-dl)) - 14334
+6. [donnemartin](https://github.com/donnemartin) - ([data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)) - 11840
+7. [valloric](https://github.com/valloric) - ([YouCompleteMe](https://github.com/valloric/YouCompleteMe)) - 10186
+8. [apenwarr](https://github.com/apenwarr) - ([sshuttle](https://github.com/apenwarr/sshuttle)) - 8928
+9. [faif](https://github.com/faif) - ([python-patterns](https://github.com/faif/python-patterns)) - 7707
+10. [tomchristie](https://github.com/tomchristie) - ([django-rest-framework](https://github.com/tomchristie/django-rest-framework)) - 7343
+11. [binux](https://github.com/binux) - ([pyspider](https://github.com/binux/pyspider)) - 6524
+12. [toastdriven](https://github.com/toastdriven) - ([restless](https://github.com/toastdriven/restless)) - 6347
+13. [jonathanslenders](https://github.com/jonathanslenders) - ([python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)) - 6212
+14. [p-e-w](https://github.com/p-e-w) - ([maybe](https://github.com/p-e-w/maybe)) - 6068
+15. [coleifer](https://github.com/coleifer) - ([peewee](https://github.com/coleifer/peewee)) - 5645
+16. [nvie](https://github.com/nvie) - ([rq](https://github.com/nvie/rq)) - 5364
+17. [dcramer](https://github.com/dcramer) - ([django-devserver](https://github.com/dcramer/django-devserver)) - 5290
+18. [amoffat](https://github.com/amoffat) - ([sh](https://github.com/amoffat/sh)) - 5173
+19. [danmcinerney](https://github.com/danmcinerney) - ([wifijammer](https://github.com/danmcinerney/wifijammer)) - 4959
+20. [alex](https://github.com/alex) - ([django-taggit](https://github.com/alex/django-taggit)) - 4947
 
 [Source: github-awards](http://github-awards.com/users?language=python)
 
@@ -65,26 +65,26 @@ Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Devs to Follow: Trending*
 
-1. [nvbn](https://github.com/nvbn) 18613 ([thefuck](https://github.com/nvbn/thefuck) 18,705)
-2. [donnemartin](https://github.com/donnemartin) 11840 ([data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) 4,930)
-4. [p-e-w](https://github.com/p-e-w) 5780 ([maybe](https://github.com/p-e-w/maybe) 5,176)
-5. [fchollet](https://github.com/fchollet) 4412 ([keras](https://github.com/fchollet/keras) 4,450)
-6. [0x5e](https://github.com/0x5e) 3824 ([wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends) 3,842)
-10. [samshadwell](https://github.com/samshadwell) 3073 ([TrumpScript](https://github.com/samshadwell/TrumpScript) 3,090)
-12. [reinderien](https://github.com/reinderien) 2910 ([mimic](https://github.com/reinderien/mimic) 2,917)
-13. [karan](https://github.com/karan) 2857 ([Projects](https://github.com/karan/Projects) 9,437)
-14. [diafygi](https://github.com/diafygi) 2760 ([acme-tiny](https://github.com/diafygi/acme-tiny) 2,032)
-15. [JuanPotato](https://github.com/JuanPotato) 2699 ([Legofy](https://github.com/JuanPotato/Legofy) 2,707)
-16. [avinassh](https://github.com/avinassh) 2686 ([rockstar](https://github.com/avinassh/rockstar) 2,704)
-17. [rhiever](https://github.com/rhiever) 2560 ([Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects) 2,031)
-18. [10se1ucgo](https://github.com/10se1ucgo) 2477 ([DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking) 2,491)
-20. [danielquinn](https://github.com/danielquinn) 1906 ([paperless](https://github.com/danielquinn/paperless) 2,218)
-21. [ryankiros](https://github.com/ryankiros) 1751 ([neural-storyteller](https://github.com/ryankiros/neural-storyteller) 1,202)
-22. [jonathanslenders](https://github.com/jonathanslenders) 1742 ([python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) 2,042)
-23. [ironmaniiith](https://github.com/ironmaniiith) 1613 ([Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer) 1,613)
-24. [AlessandroZ](https://github.com/AlessandroZ) 1538 ([LaZagne](https://github.com/AlessandroZ/LaZagne) 1,539)
-25. [graphific](https://github.com/graphific) 1474 ([DeepDreamVideo](https://github.com/graphific/DeepDreamVideo) 1,475)
-26. [nlintz](https://github.com/nlintz) 1462 ([TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) 1,467)
+1. [nvbn](https://github.com/nvbn) - ([thefuck](https://github.com/nvbn/thefuck)) - 18613
+2. [donnemartin](https://github.com/donnemartin) - ([data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)) - 11840
+3. [p-e-w](https://github.com/p-e-w) - ([maybe](https://github.com/p-e-w/maybe)) - 5780
+4. [fchollet](https://github.com/fchollet) - ([keras](https://github.com/fchollet/keras)) - 4412
+5. [0x5e](https://github.com/0x5e) - ([wechat-deleted-friends](https://github.com/0x5e/wechat-deleted-friends)) - 3824
+6. [samshadwell](https://github.com/samshadwell) - ([TrumpScript](https://github.com/samshadwell/TrumpScript)) - 3073
+7. [reinderien](https://github.com/reinderien) - ([mimic](https://github.com/reinderien/mimic)) - 2910
+8. [karan](https://github.com/karan) 2857 ([joe](https://github.com/karan/joe))
+9. [diafygi](https://github.com/diafygi) - ([acme-tiny](https://github.com/diafygi/acme-tiny)) - 2760
+10. [JuanPotato](https://github.com/JuanPotato) - ([Legofy](https://github.com/JuanPotato/Legofy)) - 2699
+11. [avinassh](https://github.com/avinassh) - ([rockstar](https://github.com/avinassh/rockstar)) - 2686
+12. [rhiever](https://github.com/rhiever) - ([Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)) - 2560
+13. [10se1ucgo](https://github.com/10se1ucgo) - ([DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking)) - 2477
+14. [danielquinn](https://github.com/danielquinn) - ([paperless](https://github.com/danielquinn/paperless)) - 1906
+15. [ryankiros](https://github.com/ryankiros) - ([neural-storyteller](https://github.com/ryankiros/neural-storyteller)) - 1751
+16. [jonathanslenders](https://github.com/jonathanslenders) - ([python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit)) - 1742
+17. [ironmaniiith](https://github.com/ironmaniiith) - ([Github-profile-name-writer](https://github.com/ironmaniiith/Github-profile-name-writer)) - 1613
+18. [AlessandroZ](https://github.com/AlessandroZ) - ([LaZagne](https://github.com/AlessandroZ/LaZagne)) - 1538
+19. [graphific](https://github.com/graphific) - ([DeepDreamVideo](https://github.com/graphific/DeepDreamVideo)) - 1474
+20. [nlintz](https://github.com/nlintz) - ([TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)) - 1462
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by dev
 
@@ -94,26 +94,26 @@ Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Orgs: All-Time
 
-1. [Django](https://github.com/django) 21548 ([django](https://github.com/django/django) 18,088)
-2. [openstack](https://github.com/openstack) 20907 ([nova](https://github.com/openstack/nova) 1,726)
-3. [google](https://github.com/google) 19108 ([web-starter-kit](https://github.com/google/web-starter-kit) 12,684)
-4. [ansible](https://github.com/ansible) 16554 ([ansible](https://github.com/ansible/ansible) 15,374)
-5. [docker](https://github.com/docker) 15395 ([docker](https://github.com/docker/docker) 28,780)
-6. [letsencrypt](https://github.com/letsencrypt) 14793 ([letsencrypt](https://github.com/letsencrypt/letsencrypt) 12,350)
-7. [scrapy](https://github.com/scrapy) 14476 ([scrapy](https://github.com/scrapy/scrapy) 12,625)
-8. [shadowsocks](https://github.com/shadowsocks) 12640 ([shadowsocks](https://github.com/shadowsocks/shadowsocks) 11,825)
-9. [facebook](https://github.com/facebook) 12050 ([react](https://github.com/facebook/react) 36,488)
-10. [getsentry](https://github.com/getsentry) 11613 ([sentry](https://github.com/getsentry/sentry) 8,453)
-11. [tornadoweb](https://github.com/tornadoweb) 10783 ([tornado](https://github.com/tornadoweb/tornado) 10,801)
-12. [reddit](https://github.com/reddit) 10773 ([reddit](https://github.com/reddit/reddit) 10,337)
-13. [scikit-learn](https://github.com/scikit-learn) 9851 ([scikit-learn](https://github.com/scikit-learn/scikit-learn) 9,800)
-14. [ipython](https://github.com/ipython) 9010 ([ipython](https://github.com/ipython/ipython) 8,599)
-15. [pydata](https://github.com/pydata) 8511 ([pandas](https://github.com/pydata/pandas) 5,731)
-16. [kivy](https://github.com/kivy) 8270 ([kivy](https://github.com/kivy/kivy) 4,041)
-17. [mozilla](https://github.com/mozilla) 8060 ([firefox-ios](https://github.com/mozilla/firefox-ios) 5,317)
-18. [saltstack](https://github.com/saltstack) 7283 ([salt](https://github.com/saltstack/salt) 6,217)
-19. [yelp](https://github.com/yelp) 6924 ([dockersh](https://github.com/Yelp/dockersh) 962)
-20. [fabric](https://github.com/fabric) 6783 ([fabric](https://github.com/fabric/fabric) 6,671)
+1. [Django](https://github.com/django) - ([django](https://github.com/django/django)) - 21548
+2. [openstack](https://github.com/openstack) - ([nova](https://github.com/openstack/nova)) - 20907
+3. [google](https://github.com/google) - ([web-starter-kit](https://github.com/google/web-starter-kit)) - 19108
+4. [ansible](https://github.com/ansible) - ([ansible](https://github.com/ansible/ansible)) - 16554
+5. [docker](https://github.com/docker) - ([docker](https://github.com/docker/docker)) - 15395
+6. [letsencrypt](https://github.com/letsencrypt) - ([letsencrypt](https://github.com/letsencrypt/letsencrypt)) - 14793
+7. [scrapy](https://github.com/scrapy) - ([scrapy](https://github.com/scrapy/scrapy)) - 14476
+8. [shadowsocks](https://github.com/shadowsocks) - ([shadowsocks](https://github.com/shadowsocks/shadowsocks)) - 12640
+9. [facebook](https://github.com/facebook) - ([react](https://github.com/facebook/react)) - 12050
+10. [getsentry](https://github.com/getsentry) - ([sentry](https://github.com/getsentry/sentry)) - 11613
+11. [tornadoweb](https://github.com/tornadoweb) - ([tornado](https://github.com/tornadoweb/tornado)) - 10783
+12. [reddit](https://github.com/reddit) - ([reddit](https://github.com/reddit/reddit)) - 10773
+13. [scikit-learn](https://github.com/scikit-learn) - ([scikit-learn](https://github.com/scikit-learn/scikit-learn)) - 9851
+14. [ipython](https://github.com/ipython) - ([ipython](https://github.com/ipython/ipython)) - 9010
+15. [pydata](https://github.com/pydata) - ([pandas](https://github.com/pydata/pandas)) - 8511
+16. [kivy](https://github.com/kivy) - ([kivy](https://github.com/kivy/kivy)) - 8270
+17. [mozilla](https://github.com/mozilla) - ([firefox-ios](https://github.com/mozilla/firefox-ios)) - 8060
+18. [saltstack](https://github.com/saltstack) - ([salt](https://github.com/saltstack/salt)) - 7283
+19. [yelp](https://github.com/yelp) - ([dockersh](https://github.com/Yelp/dockersh)) - 6924
+20. [fabric](https://github.com/fabric) - ([fabric](https://github.com/fabric/fabric)) - 6783
 
 [Source: github-awards](http://github-awards.com/users?language=python)
 
@@ -121,26 +121,26 @@ Last updated: 2016-02-15
 
 ## Top-Starred Python GitHub Orgs: Trending*
 
-1. [google](https://github.com/google) 6352 ([web-starter-kit](https://github.com/google/web-starter-kit) 12,684)
-2. [XX-net](https://github.com/XX-net) 5098 ([XX-Net](https://github.com/XX-net/XX-Net) 5,170)
-3. [zulip](https://github.com/zulip) 3655 ([zulip](https://github.com/zulip/zulip) 3,661)
-9. [facebook](https://github.com/facebook) 12050 ([react](https://github.com/facebook/react) 36,488)
-5. [Kinto](https://github.com/Kinto) 2598 ([kinto](https://github.com/Kinto/kinto) 2,602)
-6. [dbcli](https://github.com/dbcli) 2449 ([pgcli](https://github.com/dbcli/pgcli) 4,255)
-7. [tqdm](https://github.com/tqdm) 2367 ([tqdm](https://github.com/tqdm/tqdm) 2,372)
-8. [CiscoCloud](https://github.com/CiscoCloud) 1952 ([mantl](https://github.com/CiscoCloud/mantl) 1,965)
-9. [awslabs](https://github.com/awslabs) 1932 ([s2n](https://github.com/awslabs/s2n) 2,249)
-10. [tensorflow](https://github.com/tensorflow) 1796 ([tensorflow](https://github.com/tensorflow/tensorflow) 18,346)
-11. [lektor](https://github.com/lektor) 1506 ([lektor](https://github.com/lektor/lektor) 1,514)
-12. [yelp](https://github.com/yelp) 6924 ([dockersh](https://github.com/Yelp/dockersh) 962)
-13. [stitchfix](https://github.com/stitchfix) 1312 ([spinnaker](https://github.com/stitchfix/pyxley) 1,320)
-14. [zero-db](https://github.com/zero-db) 1300 ([zerodb](https://github.com/zero-db/zerodb) 1,301)
-15. [pfnet](https://github.com/pfnet) 1175 ([chainer](https://github.com/pfnet/chainer) 1,177)
-16. [CacheBrowser](https://github.com/CacheBrowser) 1013 ([cachebrowser](https://github.com/CacheBrowser/cachebrowser) 1,014)
-17. [waditu](https://github.com/waditu) 1010 ([tushare](https://github.com/waditu/tushare) 1,021)
-18. [NVIDIA](https://github.com/NVIDIA) 905 ([DIGITS](https://github.com/NVIDIA/DIGITS) 911)
-19. [spyder-ide](https://github.com/spyder-ide) 845 ([spyder](https://github.com/spyder-ide/spyder) 849)
-20. [lyft](https://github.com/lyft) 833 ([scissors](https://github.com/lyft/scissors) 1,322)
+1. [google](https://github.com/google) - ([web-starter-kit](https://github.com/google/web-starter-kit)) - 6352
+2. [XX-net](https://github.com/XX-net) - ([XX-Net](https://github.com/XX-net/XX-Net)) - 5098
+3. [zulip](https://github.com/zulip) - ([zulip](https://github.com/zulip/zulip)) - 3655
+9. [facebook](https://github.com/facebook) - ([react](https://github.com/facebook/react)) - 12050
+5. [Kinto](https://github.com/Kinto) - ([kinto](https://github.com/Kinto/kinto)) - 2598
+6. [dbcli](https://github.com/dbcli) - ([pgcli](https://github.com/dbcli/pgcli)) - 2449
+7. [tqdm](https://github.com/tqdm) - ([tqdm](https://github.com/tqdm/tqdm)) - 2367
+8. [CiscoCloud](https://github.com/CiscoCloud) - ([mantl](https://github.com/CiscoCloud/mantl)) - 1952
+9. [awslabs](https://github.com/awslabs) - ([s2n](https://github.com/awslabs/s2n)) - 1932
+10. [tensorflow](https://github.com/tensorflow) - ([tensorflow](https://github.com/tensorflow/tensorflow)) - 1796
+11. [lektor](https://github.com/lektor) - ([lektor](https://github.com/lektor/lektor)) - 1506
+12. [yelp](https://github.com/yelp) - ([dockersh](https://github.com/Yelp/dockersh)) - 6924
+13. [stitchfix](https://github.com/stitchfix) - ([spinnaker](https://github.com/stitchfix/pyxley)) - 1312
+14. [zero-db](https://github.com/zero-db) - ([zerodb](https://github.com/zero-db/zerodb)) - 1300
+15. [pfnet](https://github.com/pfnet) - ([chainer](https://github.com/pfnet/chainer)) - 1175
+16. [CacheBrowser](https://github.com/CacheBrowser) - ([cachebrowser](https://github.com/CacheBrowser/cachebrowser)) - 1013
+17. [waditu](https://github.com/waditu) - ([tushare](https://github.com/waditu/tushare)) - 1010
+18. [NVIDIA](https://github.com/NVIDIA) - ([DIGITS](https://github.com/NVIDIA/DIGITS)) - 905
+19. [spyder-ide](https://github.com/spyder-ide) - ([spyder](https://github.com/spyder-ide/spyder)) - 845
+20. [lyft](https://github.com/lyft) - ([scissors](https://github.com/lyft/scissors)) - 833
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=created%3A%3E%3D2015-01-01+stars%3A%3E%3D500+language%3Apython&type=Repositories&ref=searchresults), aggregating repos by org
 
