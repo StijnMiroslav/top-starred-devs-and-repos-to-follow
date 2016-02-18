@@ -124,7 +124,7 @@ Last updated: 2016-02-15
 1. [google](https://github.com/google) - ([yapf](https://github.com/google/yapf)) - 6352
 2. [XX-net](https://github.com/XX-net) - ([XX-Net](https://github.com/XX-net/XX-Net)) - 5098
 3. [zulip](https://github.com/zulip) - ([zulip](https://github.com/zulip/zulip)) - 3655
-9. [facebook](https://github.com/facebook) - ([PathPicker](https://github.com/facebook/PathPicker)) - 12050
+9. [facebook](https://github.com/facebook) - ([PathPicker](https://github.com/facebook/PathPicker)) - 2752
 5. [Kinto](https://github.com/Kinto) - ([kinto](https://github.com/Kinto/kinto)) - 2598
 6. [dbcli](https://github.com/dbcli) - ([pgcli](https://github.com/dbcli/pgcli)) - 2449
 7. [tqdm](https://github.com/tqdm) - ([tqdm](https://github.com/tqdm/tqdm)) - 2367
