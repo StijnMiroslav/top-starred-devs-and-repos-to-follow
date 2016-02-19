@@ -128,9 +128,9 @@ Last updated: 2016-02-15
 5. [Kinto](https://github.com/Kinto) - ([kinto](https://github.com/Kinto/kinto)) - 2598
 6. [dbcli](https://github.com/dbcli) - ([pgcli](https://github.com/dbcli/pgcli)) - 2449
 7. [tqdm](https://github.com/tqdm) - ([tqdm](https://github.com/tqdm/tqdm)) - 2367
-8. [CiscoCloud](https://github.com/CiscoCloud) - ([microservices-infrastructure](https://github.com/CiscoCloud/microservices-infrastructure)) - 1952
+8. [CiscoCloud](https://github.com/CiscoCloud) - ([microservices-infrastructure](https://github.com/CiscoCloud/mantl)) - 1952
 9. [awslabs](https://github.com/awslabs) - ([aws-shell](https://github.com/awslabs/aws-shell)) - 1932
-10. [tensorflow](https://github.com/tensorflow) - ([skflow](https://github.com/google/skflow)) - 1796
+10. [tensorflow](https://github.com/tensorflow) - ([skflow](https://github.com/tensorflow/skflow)) - 1796
 11. [lektor](https://github.com/lektor) - ([lektor](https://github.com/lektor/lektor)) - 1506
 12. [stitchfix](https://github.com/stitchfix) - ([spinnaker](https://github.com/stitchfix/pyxley)) - 1312
 13. [zero-db](https://github.com/zero-db) - ([zerodb](https://github.com/zero-db/zerodb)) - 1300
@@ -167,9 +167,9 @@ Last updated: 2016-02-15
 15. [getsentry/sentry](https://github.com/getsentry/sentry) 8427<br/>Sentry is cross-platform crash reporting built with love
 16. [faif/python-patterns](https://github.com/faif/python-patterns) 7726<br/>A collection of design patterns/idioms in Python
 17. [docker/compose](https://github.com/docker/compose) 7076<br/>Define and run multi-container applications with Docker https://docs.docker.com/compose/
-18. [fabric/fabric](https://github.com/fabric/fabric) 6656<br/>Simple, Pythonic remote execution and deployment. http://fabfile.org
+18. [fabric/fabric](https://github.com/fabric/fabric) 6656<br/>Simple, Pythonic remote execution and deployment. http://www.fabfile.org/
 19. [apenwarr/sshuttle](https://github.com/apenwarr/sshuttle) 6505<br/>Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling.
-20. [mailpile/Mailpile](https://github.com/mailpile/Mailpile) 6314<br/>A free & open modern, fast email client with user-friendly encryption and privacy features https://mailpile.is
+20. [mailpile/Mailpile](https://github.com/mailpile/Mailpile) 6314<br/>A free & open modern, fast email client with user-friendly encryption and privacy features https://www.mailpile.is/
 
 [Source: GitHub search](https://github.com/search?utf8=%E2%9C%93&q=language%3Apython+stars%3A%3E500&type=Repositories&ref=searchresults)
 
