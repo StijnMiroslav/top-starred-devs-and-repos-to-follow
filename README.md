@@ -128,7 +128,7 @@ Last updated: 2016-02-15
 5. [Kinto](https://github.com/Kinto) - ([kinto](https://github.com/Kinto/kinto)) - 2598
 6. [dbcli](https://github.com/dbcli) - ([pgcli](https://github.com/dbcli/pgcli)) - 2449
 7. [tqdm](https://github.com/tqdm) - ([tqdm](https://github.com/tqdm/tqdm)) - 2367
-8. [CiscoCloud](https://github.com/CiscoCloud) - ([microservices-infrastructure](https://github.com/CiscoCloud/mantl)) - 1952
+8. [CiscoCloud](https://github.com/CiscoCloud) - ([mantl, previously microservices-infrastructure](https://github.com/CiscoCloud/mantl)) - 1952
 9. [awslabs](https://github.com/awslabs) - ([aws-shell](https://github.com/awslabs/aws-shell)) - 1932
 10. [tensorflow](https://github.com/tensorflow) - ([skflow](https://github.com/tensorflow/skflow)) - 1796
 11. [lektor](https://github.com/lektor) - ([lektor](https://github.com/lektor/lektor)) - 1506
