@@ -15,6 +15,7 @@ filter_awesome_lists = [
     'https://github.com/minimaxir/big-list-of-naughty-strings',
     'https://github.com/drduh/OS-X-Security-and-Privacy-Guide',
     'https://github.com/donnemartin/awesome-aws',
+    'https://github.com/rushter/data-science-blogs',
 ]
 
 filter_misc = [
