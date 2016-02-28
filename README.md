@@ -28,10 +28,6 @@ GitHub is not perfect in classifying repos as Python. The lists below try to man
 
 I found it interesting to track 'all time' and 'trending' stats, so lists for each are included. Sources are provided after each list.
 
-## Contributions?
-
-Sure!
-
 ## Top-Starred Python GitHub Devs to Follow: All-Time
 
 Format: Dev - (Top Repo) - Total Dev Stars
@@ -207,6 +203,10 @@ Last updated: 2016-02-27
 Last updated: 2016-02-27
 
 *Trending: 2015-01-01 to 2016-02-27
+
+## Contributions?
+
+Sure!
 
 ## License
 
