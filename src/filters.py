@@ -7,6 +7,7 @@ filter_fonts = [
     'https://github.com/adobe-fonts/source-code-pro',
     'https://github.com/larsenwork/monoid',
     'https://github.com/chrissimpkins/codeface',
+    'https://github.com/chrissimpkins/Hack',
 ]
 
 filter_awesome_lists = [
@@ -19,5 +20,5 @@ filter_awesome_lists = [
 ]
 
 filter_misc = [
-    '',
+    'https://github.com/isocpp/CppCoreGuidelines',
 ]
